@@ -15,4 +15,4 @@ def run(text, key):
 assert run('no pets', 'dog') == 'qc vhhy'
 assert run('do not repeat yourself', 'zrtkp') == 'cf gyi qviops phegrvep'
 
-# print(run(input(), input()))
+print(run(input(), input()))
